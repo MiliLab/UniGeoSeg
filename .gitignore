@@ -1,0 +1,12 @@
+*__pycache__*
+*.pyc
+*.log
+*.pt
+*.ckpt
+*.safetensors
+checkpoint/
+.vscode/
+pre_trained
+tmp/
+*.tar.gz
+*.out
