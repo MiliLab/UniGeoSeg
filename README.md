@@ -28,6 +28,7 @@ Jing Zhang<sup>2 †</sup>.
 
 ## 🔥 Update
 
+- **[2026.03]** 📦 **GeoSeg-1M** is now publicly available on **Baidu Netdisk**. The **Hugging Face** version is still being uploaded.
 - **[2026.03]** 🎉 Our paper has been **accepted to CVPR 2026**!
 - **[2025.11]** 📄 Paper available on arXiv: **[arXiv:2511.23332](https://arxiv.org/abs/2511.23332)**
 
@@ -62,7 +63,13 @@ Instruction-driven segmentation in remote sensing generates masks from guidance,
 
 The GeoSeg-Bench can be downloaded at **[Hugging Face](https://huggingface.co/datasets/nishuo1999/GeoSeg-Bench)**.
 
-The GeoSeg-1M is Coming Soon.
+The **GeoSeg-1M** dataset is now available via **Baidu Pan**:
+
+- Dataset: `GeoSeg-1M`
+- Link: https://pan.baidu.com/s/1GldxhdvJqlsI-qyq3Uvqkw
+- Extraction code: `thxx`
+
+The **Hugging Face** version of **GeoSeg-1M** is still being uploaded and will be released soon.
 
 ## 🚀 Models
 
